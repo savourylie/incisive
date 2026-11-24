@@ -87,3 +87,7 @@ python3 -m unittest discover -s tests
 5. Surgical passes as needed: `sharpen` -> `structure` -> `unpack` -> `nuance` -> `distill`
 6. `incisive frame` (rewrite intro, conclusion, and two-part title)
 7. `incisive polish` (final proofread + close-paraphrase check + clean scan)
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
